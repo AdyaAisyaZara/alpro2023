@@ -14,5 +14,3 @@ if __name__ == "__main__":
 	print(y)
 	print(type(z))
 	print(z)
-		
-		
